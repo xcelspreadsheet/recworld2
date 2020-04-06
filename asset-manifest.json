@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/recworld2/static/css/main.531a5c90.chunk.css",
-    "main.js": "/recworld2/static/js/main.e25c0220.chunk.js",
-    "main.js.map": "/recworld2/static/js/main.e25c0220.chunk.js.map",
-    "runtime-main.js": "/recworld2/static/js/runtime-main.31f4607e.js",
-    "runtime-main.js.map": "/recworld2/static/js/runtime-main.31f4607e.js.map",
-    "static/css/2.822d6ebf.chunk.css": "/recworld2/static/css/2.822d6ebf.chunk.css",
-    "static/js/2.f64a82ad.chunk.js": "/recworld2/static/js/2.f64a82ad.chunk.js",
-    "static/js/2.f64a82ad.chunk.js.map": "/recworld2/static/js/2.f64a82ad.chunk.js.map",
-    "index.html": "/recworld2/index.html",
-    "precache-manifest.e3389dc22c913da003ef24f2bd98ab20.js": "/recworld2/precache-manifest.e3389dc22c913da003ef24f2bd98ab20.js",
-    "service-worker.js": "/recworld2/service-worker.js",
-    "static/css/2.822d6ebf.chunk.css.map": "/recworld2/static/css/2.822d6ebf.chunk.css.map",
-    "static/css/main.531a5c90.chunk.css.map": "/recworld2/static/css/main.531a5c90.chunk.css.map",
-    "static/js/2.f64a82ad.chunk.js.LICENSE.txt": "/recworld2/static/js/2.f64a82ad.chunk.js.LICENSE.txt",
-    "static/media/venus.glb": "/recworld2/static/media/venus.19786740.glb"
+    "main.css": "/static/css/main.531a5c90.chunk.css",
+    "main.js": "/static/js/main.e25c0220.chunk.js",
+    "main.js.map": "/static/js/main.e25c0220.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e3178c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e3178c3.js.map",
+    "static/css/2.822d6ebf.chunk.css": "/static/css/2.822d6ebf.chunk.css",
+    "static/js/2.f93a428d.chunk.js": "/static/js/2.f93a428d.chunk.js",
+    "static/js/2.f93a428d.chunk.js.map": "/static/js/2.f93a428d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f472e30a45f04a05c0629c3176b57ad9.js": "/precache-manifest.f472e30a45f04a05c0629c3176b57ad9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.822d6ebf.chunk.css.map": "/static/css/2.822d6ebf.chunk.css.map",
+    "static/css/main.531a5c90.chunk.css.map": "/static/css/main.531a5c90.chunk.css.map",
+    "static/js/2.f93a428d.chunk.js.LICENSE.txt": "/static/js/2.f93a428d.chunk.js.LICENSE.txt",
+    "static/media/venus.glb": "/static/media/venus.19786740.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.31f4607e.js",
+    "static/js/runtime-main.0e3178c3.js",
     "static/css/2.822d6ebf.chunk.css",
-    "static/js/2.f64a82ad.chunk.js",
+    "static/js/2.f93a428d.chunk.js",
     "static/css/main.531a5c90.chunk.css",
     "static/js/main.e25c0220.chunk.js"
   ]
